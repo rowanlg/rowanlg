@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm roo</h1>
 <h3 align="center">A frontend dev from Bristol, UK</h3>
 
-- 👨‍💻 All of my projects are available at [https://r0o.dev](https://r0o.dev)
+- 👨‍💻 Some of my projects are available at [https://r0o.dev](https://r0o.dev)
 
 - ⚡ Fun fact **I make music too, check some out at @themahaquest**
 
