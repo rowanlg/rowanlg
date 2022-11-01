@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm roo</h1>
-<h3 align="center">A frontend dev from Bristol, UK</h3>
+<h3 align="center">A frontend dev from Bristol, UK. Currently living in East London</h3>
 
 - 👨‍💻 Some of my projects are available at [https://r0o.dev](https://r0o.dev)
 
